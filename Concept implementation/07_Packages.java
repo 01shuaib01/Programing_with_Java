@@ -25,7 +25,7 @@ package pack1;
 import pack2. Student;
 public class Example{
 public static void main(String [] args){
-    Student sl-new Student ();
+    Student sl=new Student ();
     s1.setRollno (100);
     s1.setName("Saurabh");
     System.out.println("Rool No: "+s1.getRollno());
